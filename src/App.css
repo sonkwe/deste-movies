@@ -1,0 +1,104 @@
+.main{
+  text-align: center;
+  justify-content:center;
+  display: flex;
+  padding: 50px 0 50px 0;
+  background-color: rgb(207, 207, 207);
+}
+
+h1{
+  color: orange;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+
+.main1{
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 35%;
+  box-shadow: 11px 12px 12px 12px rgb(207, 207, 207);
+  padding-top: 10px;
+  border-radius: 60px;
+  background-color: rgb(141, 136, 211);
+}
+
+/*.logo{
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+
+}*/
+/* 
+.container-image{
+  background-color: rgb(223, 223, 223);
+  border-radius: 150px;
+  align-items: center;
+  display: flex;
+  height: 115px;
+  width: 115px ;
+} */
+
+.monLogo{
+      width: 100px;
+}
+
+input{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color:#fff;
+  font-size: 30px;
+  padding-left: 15px;
+}
+
+.form{
+  padding-top: 20px;
+}
+
+button{
+  width: 380px;
+  height: 50px;
+  border-radius: 60px;
+  background-color: #b103fc ;
+  color: white;
+  font-size: 40px;
+  border: none;
+}
+
+p{
+  color:red;
+  font-size: 25px;
+}
+.link{
+  font-size: 20px;
+  font-weight: 150;
+  padding-bottom: 30px;
+}
+
+nav{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  padding-top: 30px;
+}
+
+.lien1{
+  font-weight: 400;
+  font-size: x-large;
+  padding-right: 20px;
+}
+
+
+.lien2{
+  font-weight: 400;
+  font-size: x-large;
+}
+
+#root{
+  background-color:#594e69;
+}
